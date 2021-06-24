@@ -26,7 +26,7 @@ The distribution is as follows:
 ## Training DiscoGAN
 ----------------
 
-Run the cells in the notebook (model) in order.
+Run the cells in the notebook (model.ipynb) in order.
 
 ----------------
 
