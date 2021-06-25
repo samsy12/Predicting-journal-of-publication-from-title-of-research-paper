@@ -2,7 +2,8 @@
 ----------------
 Using LSTM to read the title of a research paper and predict which journal it was published in by a multiclass classification model with 20 journals.
 
-The model is in the form of a notebook that can be run in Google colab directly (necessary installations included).
+The model is in the form of a notebook (model.ipynb) that can be run in Google colab directly (necessary installations included).
+
 ----------------
 
 ## Prerequisites
@@ -22,7 +23,11 @@ The distribution is as follows:
 <img src="assets/distribution.png" width="1600px">
 
 ----------------
+ ## Model
+----------------
+The model is an lstm for multiclass classification. We have used [BERT](https://huggingface.co/transformers/model_doc/bert.html) in this project
  
+----------------
 ## Training DiscoGAN
 ----------------
 
